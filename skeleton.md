@@ -21,7 +21,7 @@
     height: 165px;
 }
 ```
-###Less than 550px:
+####Less than 550px:
 ```css
 .column, .columns {
     width: 100%;
