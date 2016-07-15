@@ -1,7 +1,6 @@
-##What happens to the layout when you resize the screen to less than 550 px.
-##How do you think that works? If you're stuck, discuss with your cohort in Slack.
+##What happens to the layout when you resize the screen to less than 550 px.How do you think that works? If you're stuck, discuss with your cohort in Slack.
 
-###Larger than or equal with 550px:
+####Larger than or equal with 550px:
 ```css
 @media (min-width: 550px)
 .one-half.column {
